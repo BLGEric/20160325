@@ -1,6 +1,12 @@
-body {background-color: #ccffcc;}
+body {background:url(bg.gif)}
 h1   {color:red;}
-p    {font-size: 30px;color:green; border: 10px solid purple; padding: 10px; margin: 20px;}
+p    {font-size: 30px;
+	  color:brown;
+	  border: 10px solid purple;
+	  padding: 10px;
+	  margin: 20px;
+	  text-align: center;
+}
 table, th, td {
     border: 3px solid blue;
     text-align: center;
